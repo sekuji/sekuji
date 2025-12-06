@@ -1,6 +1,6 @@
 <samp>
   <h3>hey, i'm sekuji</h3>
-  These are just my hobbies. I like making fun things in my free time.
+  
   <br />
   <br />
 </samp>
